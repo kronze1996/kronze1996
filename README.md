@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kronze1996
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Deep Neural Networks
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on RNN and CNN
 - 📫 How to reach me kartikkey13@gmail.com
